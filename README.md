@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Git%20hub%20Banner.jpg" alt="Sonal Sahu GitHub Banner" width="100%">
+</p>
+
 # Hi, I'm Sonal Sahu 👋
 
 ## Data Analyst | Bioinformatics | AI/ML
@@ -10,7 +14,7 @@ I build data-driven solutions using analytics, visualization, and artificial int
 - Tableau
 - Power BI
 - Machine Learning
-- Bioinformatics Datbase and Tools
+- Bioinformatics Database and Tools
 
 ### 🔬 Interests
 - Data Analytics
@@ -21,6 +25,6 @@ I build data-driven solutions using analytics, visualization, and artificial int
 
 ### 📫 Connect with me
 
-LinkedIn: www.linkedin.com/in/sonal-sahu-bio
-
-Email: sonalsahu0109@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/sonal-sahu-bio
+- 📧 Email: sonalsahu0109@gmail.com
+  
